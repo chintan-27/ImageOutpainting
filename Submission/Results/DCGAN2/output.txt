@@ -1,0 +1,337 @@
+---- ----Starting Phase 1--------
+Iteration [0/80000]:
+	G_MSE_loss (train) = 0.092981
+	G_MSE_loss (dev) = 0.073816
+Iteration [1000/80000]:
+	G_MSE_loss (train) = 0.021913
+	G_MSE_loss (dev) = 0.024614
+Iteration [2000/80000]:
+	G_MSE_loss (train) = 0.014861
+	G_MSE_loss (dev) = 0.023275
+Iteration [3000/80000]:
+	G_MSE_loss (train) = 0.022419
+	G_MSE_loss (dev) = 0.022714
+Iteration [4000/80000]:
+	G_MSE_loss (train) = 0.025534
+	G_MSE_loss (dev) = 0.022063
+Iteration [5000/80000]:
+	G_MSE_loss (train) = 0.019046
+	G_MSE_loss (dev) = 0.022073
+Iteration [6000/80000]:
+	G_MSE_loss (train) = 0.016487
+	G_MSE_loss (dev) = 0.021531
+Iteration [7000/80000]:
+	G_MSE_loss (train) = 0.019538
+	G_MSE_loss (dev) = 0.021161
+Iteration [8000/80000]:
+	G_MSE_loss (train) = 0.016425
+	G_MSE_loss (dev) = 0.021207
+Iteration [9000/80000]:
+	G_MSE_loss (train) = 0.021792
+	G_MSE_loss (dev) = 0.021684
+Iteration [10000/80000]:
+	G_MSE_loss (train) = 0.020637
+	G_MSE_loss (dev) = 0.021040
+Iteration [11000/80000]:
+	G_MSE_loss (train) = 0.019409
+	G_MSE_loss (dev) = 0.020595
+Iteration [12000/80000]:
+	G_MSE_loss (train) = 0.020576
+	G_MSE_loss (dev) = 0.021031
+Iteration [13000/80000]:
+	G_MSE_loss (train) = 0.015233
+	G_MSE_loss (dev) = 0.020778
+Iteration [14000/80000]:
+	G_MSE_loss (train) = 0.025153
+	G_MSE_loss (dev) = 0.020562
+Iteration [15000/80000]:
+	G_MSE_loss (train) = 0.017916
+	G_MSE_loss (dev) = 0.020736
+Iteration [16000/80000]:
+	G_MSE_loss (train) = 0.024331
+	G_MSE_loss (dev) = 0.021144
+Iteration [17000/80000]:
+	G_MSE_loss (train) = 0.028679
+	G_MSE_loss (dev) = 0.020837
+Iteration [18000/80000]:
+	G_MSE_loss (train) = 0.021567
+	G_MSE_loss (dev) = 0.020804
+Iteration [19000/80000]:
+	G_MSE_loss (train) = 0.019197
+	G_MSE_loss (dev) = 0.021367
+Iteration [20000/80000]:
+	G_MSE_loss (train) = 0.015249
+	G_MSE_loss (dev) = 0.021382
+Iteration [21000/80000]:
+	G_MSE_loss (train) = 0.021457
+	G_MSE_loss (dev) = 0.020845
+Iteration [22000/80000]:
+	G_MSE_loss (train) = 0.018158
+	G_MSE_loss (dev) = 0.020732
+Iteration [23000/80000]:
+	G_MSE_loss (train) = 0.024524
+	G_MSE_loss (dev) = 0.021480
+Iteration [24000/80000]:
+	G_MSE_loss (train) = 0.017085
+	G_MSE_loss (dev) = 0.020500
+Iteration [25000/80000]:
+	G_MSE_loss (train) = 0.020550
+	G_MSE_loss (dev) = 0.020921
+Iteration [26000/80000]:
+	G_MSE_loss (train) = 0.017581
+	G_MSE_loss (dev) = 0.021154
+Iteration [27000/80000]:
+	G_MSE_loss (train) = 0.024403
+	G_MSE_loss (dev) = 0.020554
+Iteration [28000/80000]:
+	G_MSE_loss (train) = 0.024836
+	G_MSE_loss (dev) = 0.020829
+Iteration [29000/80000]:
+	G_MSE_loss (train) = 0.020326
+	G_MSE_loss (dev) = 0.021509
+---- ----Starting Phase 2--------
+(4, 256, 64, 3)
+Iteration [30000/80000]:
+	G_MSE_loss (dev) = 0.020476
+	C_loss = 1.391239
+Iteration [31000/80000]:
+	G_MSE_loss (dev) = 0.020476
+	C_loss = 0.070860
+Iteration [32000/80000]:
+	G_MSE_loss (dev) = 0.020476
+	C_loss = 0.000523
+Iteration [33000/80000]:
+	G_MSE_loss (dev) = 0.020476
+	C_loss = 0.000008
+Iteration [34000/80000]:
+	G_MSE_loss (dev) = 0.020476
+	C_loss = 0.000011
+Iteration [35000/80000]:
+	G_MSE_loss (dev) = 0.020476
+	C_loss = 0.000001
+---- ----Starting Phase 3--------
+Iteration [36000/80000]:
+	G_MSE_loss (train) = 0.015051
+	G_MSE_loss (dev) = 0.020717
+	G_loss = 0.021331
+	C_loss = 0.000000
+Iteration [37000/80000]:
+	G_MSE_loss (train) = 0.027835
+	G_MSE_loss (dev) = 0.022665
+	G_loss = 0.031675
+	C_loss = 0.016900
+Iteration [38000/80000]:
+	G_MSE_loss (train) = 0.031171
+	G_MSE_loss (dev) = 0.022538
+	G_loss = 0.034930
+	C_loss = 0.002117
+Iteration [39000/80000]:
+	G_MSE_loss (train) = 0.027307
+	G_MSE_loss (dev) = 0.021966
+	G_loss = 0.032347
+	C_loss = 0.003695
+Iteration [40000/80000]:
+	G_MSE_loss (train) = 0.029364
+	G_MSE_loss (dev) = 0.022252
+	G_loss = 0.036053
+	C_loss = 0.000000
+Iteration [41000/80000]:
+	G_MSE_loss (train) = 0.023890
+	G_MSE_loss (dev) = 0.023569
+	G_loss = 0.028433
+	C_loss = 0.000058
+Iteration [42000/80000]:
+	G_MSE_loss (train) = 0.026519
+	G_MSE_loss (dev) = 0.025149
+	G_loss = 0.031855
+	C_loss = 0.001382
+Iteration [43000/80000]:
+	G_MSE_loss (train) = 0.017083
+	G_MSE_loss (dev) = 0.023850
+	G_loss = 0.021774
+	C_loss = 0.000034
+Iteration [44000/80000]:
+	G_MSE_loss (train) = 0.029161
+	G_MSE_loss (dev) = 0.022031
+	G_loss = 0.033716
+	C_loss = 0.000067
+Iteration [45000/80000]:
+	G_MSE_loss (train) = 0.023798
+	G_MSE_loss (dev) = 0.023263
+	G_loss = 0.028643
+	C_loss = 0.000589
+Iteration [46000/80000]:
+	G_MSE_loss (train) = 0.029053
+	G_MSE_loss (dev) = 0.023540
+	G_loss = 0.032836
+	C_loss = 0.034102
+Iteration [47000/80000]:
+	G_MSE_loss (train) = 0.022420
+	G_MSE_loss (dev) = 0.022189
+	G_loss = 0.030512
+	C_loss = 0.000000
+Iteration [48000/80000]:
+	G_MSE_loss (train) = 0.019687
+	G_MSE_loss (dev) = 0.021342
+	G_loss = 0.025124
+	C_loss = 0.000013
+Iteration [49000/80000]:
+	G_MSE_loss (train) = 0.021052
+	G_MSE_loss (dev) = 0.021800
+	G_loss = 0.026825
+	C_loss = 0.005255
+Iteration [50000/80000]:
+	G_MSE_loss (train) = 0.032283
+	G_MSE_loss (dev) = 0.021664
+	G_loss = 0.038900
+	C_loss = 0.004641
+Iteration [51000/80000]:
+	G_MSE_loss (train) = 0.022557
+	G_MSE_loss (dev) = 0.021308
+	G_loss = 0.028761
+	C_loss = 0.000219
+Iteration [52000/80000]:
+	G_MSE_loss (train) = 0.021507
+	G_MSE_loss (dev) = 0.020758
+	G_loss = 0.028357
+	C_loss = 0.000009
+Iteration [53000/80000]:
+	G_MSE_loss (train) = 0.028191
+	G_MSE_loss (dev) = 0.020770
+	G_loss = 0.036480
+	C_loss = -0.000000
+Iteration [54000/80000]:
+	G_MSE_loss (train) = 0.019471
+	G_MSE_loss (dev) = 0.021833
+	G_loss = 0.026470
+	C_loss = 0.000004
+Iteration [55000/80000]:
+	G_MSE_loss (train) = 0.024124
+	G_MSE_loss (dev) = 0.021009
+	G_loss = 0.032413
+	C_loss = -0.000000
+Iteration [56000/80000]:
+	G_MSE_loss (train) = 0.023617
+	G_MSE_loss (dev) = 0.020545
+	G_loss = 0.031906
+	C_loss = -0.000000
+Iteration [57000/80000]:
+	G_MSE_loss (train) = 0.022701
+	G_MSE_loss (dev) = 0.021083
+	G_loss = 0.030147
+	C_loss = 0.000069
+Iteration [58000/80000]:
+	G_MSE_loss (train) = 0.026369
+	G_MSE_loss (dev) = 0.021541
+	G_loss = 0.034223
+	C_loss = 0.000000
+Iteration [59000/80000]:
+	G_MSE_loss (train) = 0.018245
+	G_MSE_loss (dev) = 0.020894
+	G_loss = 0.025606
+	C_loss = 0.000003
+Iteration [60000/80000]:
+	G_MSE_loss (train) = 0.019289
+	G_MSE_loss (dev) = 0.020587
+	G_loss = 0.026981
+	C_loss = 0.000783
+Iteration [61000/80000]:
+	G_MSE_loss (train) = 0.022730
+	G_MSE_loss (dev) = 0.021497
+	G_loss = 0.026486
+	C_loss = 0.010044
+Iteration [62000/80000]:
+	G_MSE_loss (train) = 0.013896
+	G_MSE_loss (dev) = 0.021349
+	G_loss = 0.022002
+	C_loss = -0.000000
+Iteration [63000/80000]:
+	G_MSE_loss (train) = 0.027899
+	G_MSE_loss (dev) = 0.021776
+	G_loss = 0.034604
+	C_loss = 0.000257
+Iteration [64000/80000]:
+	G_MSE_loss (train) = 0.029323
+	G_MSE_loss (dev) = 0.020705
+	G_loss = 0.037613
+	C_loss = 0.000000
+Iteration [65000/80000]:
+	G_MSE_loss (train) = 0.013344
+	G_MSE_loss (dev) = 0.020566
+	G_loss = 0.019383
+	C_loss = 0.000040
+Iteration [66000/80000]:
+	G_MSE_loss (train) = 0.016876
+	G_MSE_loss (dev) = 0.021189
+	G_loss = 0.023846
+	C_loss = 0.000134
+Iteration [67000/80000]:
+	G_MSE_loss (train) = 0.021009
+	G_MSE_loss (dev) = 0.021844
+	G_loss = 0.027757
+	C_loss = 0.000001
+Iteration [68000/80000]:
+	G_MSE_loss (train) = 0.023149
+	G_MSE_loss (dev) = 0.020679
+	G_loss = 0.031439
+	C_loss = -0.000000
+Iteration [69000/80000]:
+	G_MSE_loss (train) = 0.022628
+	G_MSE_loss (dev) = 0.023127
+	G_loss = 0.027879
+	C_loss = 0.000153
+Iteration [70000/80000]:
+	G_MSE_loss (train) = 0.025611
+	G_MSE_loss (dev) = 0.023274
+	G_loss = 0.030873
+	C_loss = 0.000010
+Iteration [71000/80000]:
+	G_MSE_loss (train) = 0.026012
+	G_MSE_loss (dev) = 0.020805
+	G_loss = 0.034036
+	C_loss = -0.000000
+Iteration [72000/80000]:
+	G_MSE_loss (train) = 0.026888
+	G_MSE_loss (dev) = 0.021052
+	G_loss = 0.035177
+	C_loss = -0.000000
+Iteration [73000/80000]:
+	G_MSE_loss (train) = 0.015822
+	G_MSE_loss (dev) = 0.020621
+	G_loss = 0.024111
+	C_loss = -0.000000
+Iteration [74000/80000]:
+	G_MSE_loss (train) = 0.022232
+	G_MSE_loss (dev) = 0.020464
+	G_loss = 0.030521
+	C_loss = -0.000000
+Iteration [75000/80000]:
+	G_MSE_loss (train) = 0.019564
+	G_MSE_loss (dev) = 0.020656
+	G_loss = 0.027184
+	C_loss = 0.000000
+Iteration [76000/80000]:
+	G_MSE_loss (train) = 0.024346
+	G_MSE_loss (dev) = 0.020501
+	G_loss = 0.032635
+	C_loss = -0.000000
+Iteration [77000/80000]:
+	G_MSE_loss (train) = 0.013276
+	G_MSE_loss (dev) = 0.020526
+	G_loss = 0.021565
+	C_loss = -0.000000
+Iteration [78000/80000]:
+	G_MSE_loss (train) = 0.019313
+	G_MSE_loss (dev) = 0.020576
+	G_loss = 0.027602
+	C_loss = -0.000000
+Iteration [79000/80000]:
+	G_MSE_loss (train) = 0.014499
+	G_MSE_loss (dev) = 0.020550
+	G_loss = 0.022788
+	C_loss = -0.000000
+Iteration [80000/80000]:
+	G_MSE_loss (train) = 0.025025
+	G_MSE_loss (dev) = 0.020271
+	G_loss = 0.033314
+	C_loss = -0.000000

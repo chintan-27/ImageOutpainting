@@ -1,0 +1,12 @@
+tensorflow-gpu
+opencv-python
+imageio
+pandas
+numpy
+matplotlib
+pytorch
+Pillow
+scipy
+sklearn
+git+https://github.com/tensorflow/docs
+

@@ -1,0 +1,6 @@
+For ImageOutpainting1.ipynb ImageOutpainting2.ipynb ImageOutpainting3.ipynb
+
+1 - "pip install -r requirements.txt" run this to install the requirements.
+2 - Run each cell in the order in a system with high RAM and GPU access.
+
+**** OUTPUT FOLDER IS TO SAVE THE OUTPUT WHEN THE IMAGEOUTPAINTING2.IPYNB is run
