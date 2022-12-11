@@ -12,7 +12,7 @@ The GAN-2 uses one generator, one global discriminator, four local discriminator
 
 ### Plots
 
-<img src="https://github.com/chintan-27/ImageOutpainting/blob/main/Submission/Results/DCGAN2/ValLoss.png" alt="Generator Loss" width="400"/>
+<img src="https://github.com/chintan-27/ImageOutpainting/blob/main/Submission/Results/DCGAN2/ValLoss.png" alt="Generator Loss" width="500"/>
 
 ### Results
 
@@ -32,4 +32,4 @@ The third GAN uses a single generator and discriminator but uses weighted advers
 
 In this project, we successfully solved the problem of image outpainting using GANs. The GANs really proved to be true to their properties of generating data similar to the training set. The results can be improved using the whole dataset for training.
 
-The detailed Report is available here - [Report]()
+The detailed Report is available here - [Report](https://github.com/chintan-27/ImageOutpainting/blob/main/Submission/FinalProjectTechnicalWriteUp.pdf)
