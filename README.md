@@ -24,6 +24,7 @@ The third GAN uses a single generator and discriminator but uses weighted advers
 
 ### Results
 
+INPUT         OUTPUT        GROUND TRUTH
 ![GAN-3 Result input](https://github.com/chintan-27/ImageOutpainting/blob/main/Submission/Results/GAN3/images/train_0_masked.jpg) ![GAN-3 Result Output](https://github.com/chintan-27/ImageOutpainting/blob/main/Submission/Results/GAN3/images/train_0_result.jpg) ![GAN-3 GT](https://github.com/chintan-27/ImageOutpainting/blob/main/Submission/Results/GAN3/images/train_0_truth.jpg)
 ## 
 ![GAN-3 Result input](https://github.com/chintan-27/ImageOutpainting/blob/main/Submission/Results/GAN3/images/val_1_masked.jpg) ![GAN-3 Result Output](https://github.com/chintan-27/ImageOutpainting/blob/main/Submission/Results/GAN3/images/val_1_result.jpg) ![GAN-3 Result GT](https://github.com/chintan-27/ImageOutpainting/blob/main/Submission/Results/GAN3/images/val_1_truth.jpg)
