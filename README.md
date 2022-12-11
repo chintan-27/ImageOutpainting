@@ -12,11 +12,11 @@ The GAN-2 uses one generator, one global discriminator, four local discriminator
 
 ### Plots
 
-![Generator loss]()
+![Generator loss](https://github.com/chintan-27/ImageOutpainting/blob/main/Submission/Results/DCGAN2/ValLoss.png)
 
 ### Results
 
-![GAN-2 Result 1]() ![GAN-2 Result 1]()
+![GAN-2 Result 1](https://github.com/chintan-27/ImageOutpainting/blob/main/Submission/Results/DCGAN2/dcgan2-2.gif) ![GAN-2 Result 1](https://github.com/chintan-27/ImageOutpainting/blob/main/Submission/Results/DCGAN2/dcgan2-3.gif)
 
 ## 3. GAN-3
 
@@ -24,8 +24,8 @@ The third GAN uses a single generator and discriminator but uses weighted advers
 
 ### Results
 
-![GAN-2 Result input]() ![GAN-2 Result Output]()
-![GAN-2 Result input]() ![GAN-2 Result Output]()
+![GAN-3 Result input](https://github.com/chintan-27/ImageOutpainting/blob/main/Submission/Results/GAN3/images/train_0_masked.jpg) ![GAN-3 Result Output](https://github.com/chintan-27/ImageOutpainting/blob/main/Submission/Results/GAN3/images/train_0_result.jpg) ![GAN-3 GT](https://github.com/chintan-27/ImageOutpainting/blob/main/Submission/Results/GAN3/images/train_0_truth.jpg)
+![GAN-3 Result input](https://github.com/chintan-27/ImageOutpainting/blob/main/Submission/Results/GAN3/images/val_1_masked.jpg) ![GAN-3 Result Output](https://github.com/chintan-27/ImageOutpainting/blob/main/Submission/Results/GAN3/images/val_1_result.jpg) ![GAN-3 Result GT](https://github.com/chintan-27/ImageOutpainting/blob/main/Submission/Results/GAN3/images/val_1_truth.jpg)
 
 ## Conclusion
 
