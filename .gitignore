@@ -1,0 +1,9 @@
+*.mp4
+.ipynb_checkpoints
+training_checkpoints1
+.ipynb_checkpoints
+Submission/VideoTour
+tensorflow-apple-metal-conda.yml
+*.zip
+ME.mp4
+Submission/Data
