@@ -7,3 +7,4 @@ tensorflow-apple-metal-conda.yml
 *.zip
 ME.mp4
 Submission/Data
+.DS_store
