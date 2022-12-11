@@ -12,7 +12,7 @@ The GAN-2 uses one generator, one global discriminator, four local discriminator
 
 ### Plots
 
-![Generator loss](https://github.com/chintan-27/ImageOutpainting/blob/main/Submission/Results/DCGAN2/ValLoss.png) { width: 400px; }
+<img src="[drawing.jpg](https://github.com/chintan-27/ImageOutpainting/blob/main/Submission/Results/DCGAN2/ValLoss.png)" alt="Generator Loss" width="400"/>
 
 ### Results
 
